@@ -1,0 +1,2 @@
+require 'jieba'
+require 'hmm'
